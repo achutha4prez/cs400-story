@@ -1,7 +1,6 @@
-The very exhausted CS 400 student, Achutha Balaji, stands idly in the Hector F. DeLuca 
-Biochemistry Building. He is waiting for the ongoing lecture to end so he can go inside and 
-sit on one of those comfy chairs. Although AVL Trees are something Achutha is passionate 
-about, he cannot help but dose off since he only slept for four hours. When he finally wakes 
-up, he is saddened by the realization that the professor is not talking about AVL Trees 
-anymore, but instead moving on to the inferior Red-Black Trees.
-"Why red and black?" Achutha wondered. "What's wrong with blue or green?" Sadly, the professor ignored him and continued her lecture.
+The can go inside and sit on one of those comfy chairs. Although AVL Trees are something Achutha is passionate about, he cannot help but dose off since he only
+slept for four hours. When he finally wakes up, he is saddened by the realization that the professor is not talking about AVL Trees anymore, but instead moving 
+on to the inferior Red-Black Trees. "Why red and black?" Achutha wondered. "What's wrong with blue or green?"
+
+He is very disappointed that so little time was spent on AVL Trees, although he is not really sure how long was spent on them, since he was sleeping for the majority of the last few lectures. He is unhappy that his mind is currently being infiltrated by various cases red property violations, so he decides to close his eyes once more. 
+When he woke up, he found that the lecture was already ended, and the other class was already started.
